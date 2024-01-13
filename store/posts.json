@@ -1,1 +1,36 @@
-{"posts":[{"title":"Novidade no mundo da tecnologia","text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum eum consequuntur dolore nihil, itaque omnis at tempore deserunt excepturi accusamus saepe vitae earum laudantium asperiores facere! Autem fuga ducimus iure?","stars":3},{"title":"Criando um servidor com Node.js","text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum eum consequuntur dolore nihil, itaque omnis at tempore deserunt excepturi accusamus saepe vitae earum laudantium asperiores facere! Autem fuga ducimus iure?"},{"title":"Javascript é a linguagem mais utilizada","text":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum eum consequuntur dolore nihil, itaque omnis at tempore deserunt excepturi accusamus saepe vitae earum laudantium asperiores facere! Autem fuga ducimus iure?","stars":5},{"title":"Primeiro post","text":"Testando sistema de cadasatro de posts","stars":1},{"title":"publicano novo post","text":"Mais vale um pássaro na mão do que bois voando.. Uma coisa é uma coisa, outra coisa é outra coisa.. Toda regra tem exceção.. Toda regra tem exceção.. A vida é uma sucessão de sucessivos que sucedem sucessivamente sem cessar..","stars":5},{"title":"USP oferece cursos gratuitos de extensão universitária","text":"A Escola de Artes, Ciências e Humanidades (EACH), da Universidade de São Paulo (USP), na zona leste da capital paulista, está com inscrições abertas em diversos cursos de extensão universitária.\r\n\r\nAs capacitações do programa de verão, no formato presencial, acontecem no período de 19  a 23 de fevereiro."}]}
+{
+    "posts": [
+        {
+            "title": "Novidade no mundo da tecnologia",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum eum consequuntur dolore nihil, itaque omnis at tempore deserunt excepturi accusamus saepe vitae earum laudantium asperiores facere! Autem fuga ducimus iure?",
+            "stars": 3
+        },
+        {
+            "title": "Criando um servidor com Node.js",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum eum consequuntur dolore nihil, itaque omnis at tempore deserunt excepturi accusamus saepe vitae earum laudantium asperiores facere! Autem fuga ducimus iure?"
+        },
+        {
+            "title": "Javascript é a linguagem mais utilizada",
+            "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum eum consequuntur dolore nihil, itaque omnis at tempore deserunt excepturi accusamus saepe vitae earum laudantium asperiores facere! Autem fuga ducimus iure?",
+            "stars": 5
+        },
+        {
+            "title": "Primeiro post",
+            "text": "Testando sistema de cadasatro de posts",
+            "stars": 1
+        },
+        {
+            "title": "publicano novo post",
+            "text": "Mais vale um pássaro na mão do que bois voando.. Uma coisa é uma coisa, outra coisa é outra coisa.. Toda regra tem exceção.. Toda regra tem exceção.. A vida é uma sucessão de sucessivos que sucedem sucessivamente sem cessar..",
+            "stars": 5
+        },
+        {
+            "title": "USP oferece cursos gratuitos de extensão universitária",
+            "text": "A Escola de Artes, Ciências e Humanidades (EACH), da Universidade de São Paulo (USP), na zona leste da capital paulista, está com inscrições abertas em diversos cursos de extensão universitária.\r\n\r\nAs capacitações do programa de verão, no formato presencial, acontecem no período de 19  a 23 de fevereiro."
+        },
+        {
+            "title": "Test",
+            "text": "Some content"
+        }
+    ]
+}
