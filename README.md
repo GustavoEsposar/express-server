@@ -1,5 +1,13 @@
 # express-server
 
+<!-- TOC -->
+
+- [express-server](#express-server)
+    - [Purpose](#purpose)
+    - [Result Screenshots](#result-screenshots)
+
+<!-- /TOC -->
+
 ## Purpose
 
 The aim of this project was to understand and practise fundamental concepts about how to create a server with the Node.js express module.
